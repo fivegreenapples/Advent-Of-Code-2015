@@ -1,4 +1,5 @@
 package main
 
-// var testInput =
-// var input =
+var testInput = "1"
+
+var input = "1113122113"
